@@ -1,0 +1,10 @@
+{
+  "description": "Generates personalized thank you messages quickly to help users express gratitude professionally and sincerely in various contexts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
